@@ -29,9 +29,15 @@ EzDiscordBot is the free, private bot for your server!
 ![image](https://github.com/ssxbaa/EzDiscordBot/assets/145496446/d0e52d05-b49f-4afe-8260-25ad40a8edac)
 
 - If you want, you can even change the embeds' color by changing the defaultColor value to a [hex color](https://www.google.com/search?q=hex+color+picker).
+- Copy your Server's ID by right clicking on your Server's icon.
+- Open the index.js file and replace the 'devGuildID' in line 32 with your Server's ID.
 - Open a Command Prompt in the Bot's Folder.
 - Download the dependencies by running `npm install`.
 - Keep the bot running with `node src/index.js`
+
+# 🤖 • Expand the Bot
+You can even expand the bot by yourself and put commands that are not there.
+Read the [CommandKit Docs](https://commandkit.js.org/guide/installation) and you can use the `src/templateCommand.js` file, paste it into the commands folder and start making a new command.
 
 # ⭐ • Star
 
