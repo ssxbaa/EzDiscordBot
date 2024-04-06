@@ -1,0 +1,8 @@
+{
+  "token": "your token",
+  "defaultColor": "#ffffff",
+  "staffRoleID": "staff role id",
+  "adminRoleID": "admin role id",
+  "modLogsChannelID": "mod logs channel id",
+  "welcomeChannelID": "your welcome channel id"
+}

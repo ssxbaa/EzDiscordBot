@@ -1,0 +1,16 @@
+{
+  "name": "ezdiscordbot",
+  "version": "1.0.0",
+  "description": "A premade Discord Bot for a Private Server!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ssxbaa",
+  "license": "ISC",
+  "dependencies": {
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.14.1",
+    "moment": "^2.30.1"
+  }
+}
