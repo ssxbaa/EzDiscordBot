@@ -29,8 +29,7 @@ new CommandKit({
     client,
     commandsPath: path.join(__dirname, 'commands'),
     eventsPath: path.join(__dirname, 'events'),
-    devGuildIds: ['1226082580038942730'], // Your Guild's ID.
-    devUserIds: ['1213198625610408046'], // Devs' IDs.
+    devGuildIds: ['devGuildID'], // Your Guild's ID.
     skipBuiltInValidations: true,
     bulkRegister: true,
 });
