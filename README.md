@@ -1,4 +1,4 @@
-# ✨ • EzDiscordBot
+# ✨ • EzDiscordBot - v 0.1
 
 EzDiscordBot is the free, private bot for your server!
 
